@@ -1,0 +1,16 @@
+set:
+  name: vegetables
+  labels:
+    - tomato
+    - kiwi
+    - apple
+    - other
+---
+set:
+  name: harry
+  labels:
+    - serpens
+    - wingard
+    - herbivicus
+    - descendo
+    - nothing
